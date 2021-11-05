@@ -1,0 +1,48 @@
+/* body {
+    background-color: cadetblue;
+} */
+
+h1,
+h2 {
+    text-align: center;
+}
+
+p {
+    margin: 0px;
+}
+
+hr {
+    border-color: blue;
+}
+
+.contenu {
+    width: 500px;
+    margin: 10px auto;
+    /* background-color: aqua */
+}
+
+.details {
+    /* background-color: rebeccapurple; */
+    height: 154px;
+}
+
+.details img {
+    height: 150px;
+    border: 1px double black;
+    border-radius: 50%;
+    float: left;
+}
+
+.liste-details {
+    /* background-color: seagreen; */
+    width: 250px;
+    list-style-type: none;
+    float: right;
+    margin-top: 20px;
+    padding: 2px 20px;
+}
+
+.cv-section {
+    /*/background-color: tomato; */
+    padding-bottom: 5px;
+}
